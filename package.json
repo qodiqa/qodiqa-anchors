@@ -1,0 +1,12 @@
+{
+  "name": "qodiqa-anchors",
+  "version": "1.0.0",
+  "description": "Append-only public record of QODIQA audit-checkpoint anchors.",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node test/check-structure.js"
+  }
+}
